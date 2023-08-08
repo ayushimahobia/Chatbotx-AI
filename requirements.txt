@@ -1,0 +1,12 @@
+langchain==0.0.150
+pypdf
+pandas
+transformers
+openai
+faiss-cpu
+gdown
+flask
+flask_cors
+python-dotenv
+tiktoken
+gunicorn
